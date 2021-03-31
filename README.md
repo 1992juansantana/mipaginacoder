@@ -1,2 +1,1 @@
-# mipaginacoder
-html,css,sass
+mi pagina web
