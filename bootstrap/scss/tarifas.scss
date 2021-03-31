@@ -1,0 +1,32 @@
+/* Variables */
+$ColorBlack: #090101;
+$ColorRed: #FF0000;
+$ColorTransparente: rgba(255, 255, 255, 0.5);
+
+/* responsive */
+@media (max-width:480px,768px,1080) {
+    tabla{
+        width: 100px;
+    }
+}
+
+.tabla{
+    color: $ColorRed;
+    font-family: cursive;
+
+    background-color: $ColorBlack;
+    background-color: $ColorTransparente;
+    margin: auto;
+    width: 550px;
+    height: 100px;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+    color: black;
+    font-family: 'Potta One', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+
+
